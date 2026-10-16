@@ -94,6 +94,8 @@ carrom-pool-ai/
 <div aling="left">
 <img src="Screenshot 2026-10-12 220701.png" style=" width:300px">
 <img src="Screenshot 2026-10-16 100723.png" style=" width:300px">
+<img src="Screenshot 2026-10-12 213523.png" style=" width:300px">
+
 </div>
 
 ---

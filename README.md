@@ -1,8 +1,4 @@
 # Carrom Pool AI Assistant 🎯
-<div aling="left">
-<img src="Screenshot 2026-10-12 220701.png" style=" width:300px">
-<img src="Screenshot 2026-10-16 100723.png" style=" width:300px">
-</div>
 
 A real-time, high-FPS visual aim assistant for **Carrom Pool** (Miniclip) running on PC Android emulators (BlueStacks, LDPlayer, Nox, etc.).
 
@@ -92,6 +88,13 @@ carrom-pool-ai/
 2. **Striker Tracking:** Detects the striker disc on the baseline using Hough transform and brightness scoring.
 3. **Arrow & Aim Vector:** Isolates the red/orange aim arrow using color thresholding, eliminates resting glow rings, and computes the exact trajectory angle using `cv2.fitLine`.
 4. **Raycasting Physics:** Traces the striker's forward path, calculates cushion reflections, determines contact points with black coins, computes the ghost ball position, and predicts whether the coin will sink into a corner pocket.
+
+---
+
+<div aling="left">
+<img src="Screenshot 2026-10-12 220701.png" style=" width:300px">
+<img src="Screenshot 2026-10-16 100723.png" style=" width:300px">
+</div>
 
 ---
 

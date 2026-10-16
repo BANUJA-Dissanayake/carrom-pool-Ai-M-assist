@@ -1,5 +1,7 @@
 # Carrom Pool AI Assistant 🎯
 
+image src="Screenshot 2026-10-12 220701.png"
+
 A real-time, high-FPS visual aim assistant for **Carrom Pool** (Miniclip) running on PC Android emulators (BlueStacks, LDPlayer, Nox, etc.).
 
 Powered entirely by **Computer Vision (OpenCV)** and **2D Physics Raycasting** via screen capture. It does **not** hook into game memory or modify game files.
